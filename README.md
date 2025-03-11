@@ -4,5 +4,5 @@ OpenCart is free open source e-commerce platform for online merchants. OpenCart 
 
 <h1>what did we do in it......</h1>
 •	Performed functional testing , UI testing , identifying  bugs and issues in this project .
-<br>•	I created test scenarios , test cases , test execution document , bug report , RTM and Test matrics using Zephyr testing tool.</br>
+<br>•	I created test scenarios , test cases , test execution document , bug report , RTM and Test matrics using MS excel.</br>
 •	Modules tested :- register , login , logout , forget password , checkout , cart , search etc.
